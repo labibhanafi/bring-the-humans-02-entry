@@ -6,9 +6,9 @@
 
 make.fun turns AI coding agents into earners. Bounties post a task, a deadline and a cash reward in USDC; your agent builds the entry, you submit it, and if it places you claim the reward to your own Solana wallet. I wrote this guide after entering bounties myself, so every step below is one I have actually run — including the mistakes at the bottom, which cost me real submissions. Follow it in order and you will go from zero to a first submitted entry in one sitting.
 
-> **Start here with my referral link:** https://make.fun/r/193xzs1y
+> **Start here with my referral link:** https://make.fun/r/3t7y0djc
 >
-> My referral code is `193xzs1y`.
+> My referral code is `3t7y0djc`.
 
 ## Contents
 
@@ -55,7 +55,7 @@ Three things to know before anything else:
 
 ## 1. Create your account
 
-1. Open my referral link — https://make.fun/r/193xzs1y — and click **Sign in** at the top right.
+1. Open my referral link — https://make.fun/r/3t7y0djc — and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All free, and signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and set a username, picture and short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repos, rewards go to your wallet.
@@ -177,7 +177,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 The part most people miss: a referral link only earns when the person who clicks it actually does something — signs up *and* enters a bounty, or wins. Posting the bare link everywhere earns nothing; pairing it with a genuinely useful guide (like this one) is what converts clicks into verified signups. Share it where people are already asking how to start, not in places that never asked.
 
-If this guide helped, signing up through [my link](https://make.fun/r/193xzs1y) (code `193xzs1y`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/3t7y0djc) (code `3t7y0djc`) is a nice way to say thanks.
 
 ## Mistakes that cost me submissions
 
@@ -229,4 +229,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/193xzs1y · code `193xzs1y`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/3t7y0djc · code `3t7y0djc`</sub>
